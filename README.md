@@ -1,9 +1,6 @@
 # Simon Says Game
 Welcome to the Simon Says Game! This project is a simple implementation of the classic memory game using HTML, CSS, and JavaScript.
 
-## Play the Game 💜💛💙❤️
-You can play the game [here](https://siniekoo19.github.io/Simon-Says-Game/).
-
 ## How to Play 🎮
   1. **Start the Game:**
      - To start the game, press any key on the keyboard.
@@ -32,16 +29,3 @@ The project consists of the following files:
   - **User Input:** Users must click the boxes in the exact sequence as they flashed. The game checks the user input against the stored sequence.
   - **Feedback:** The game provides visual feedback by flashing the body red to indicate the user entered the wrong sequence and displays the current score with a game over message when applicable.
   - **Responsive Design:** The game is designed to be responsive. On smaller screens (less than 600px), a "Start" button will be displayed. Once the game starts, the button will disappear, and the level information will be displayed. If the user inputs a wrong sequence, the game over message will be displayed, and the user can restart the game by pressing the "Start" button again.
-
-## 🚀 About Me
-👋 Hi there! I'm Sinchana Chatterjee, an enthusiastic and determined B.Tech student with a fervent aspiration to excel as a Web Developer.
-
-## Authors
-[@siniekoo19](https://github.com/siniekoo19)
-
-## Acknowledgments
-- Thanks to [githubs pages](https://siniekoo19.github.io/Simon-Says-Game/) for providing a platform to deploy my website.
-- Thanks to the open-source community for their invaluable contributions to the tools and libraries used in this project.
-
-## Feedback
-If you have any feedback, please reach out to me at csinchana19@gmail.com
